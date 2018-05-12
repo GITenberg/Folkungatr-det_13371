@@ -1,0 +1,30 @@
+_repo: Folkungatr-det_13371
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Heidenstam, Verner von
+    aliases:
+    - Von Heidenstam, Verner
+    - Heidenstam, Karl Gustaf Verner von
+    birthdate: 1859
+    deathdate: 1940
+    gutenberg_agent_id: '5027'
+    url: http://www.gutenberg.org/2009/agents/5027
+    wikipedia: http://en.wikipedia.org/wiki/Verner_von_Heidenstam
+description: ''
+gutenberg_issued: '2004-09-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13371'
+language: sv
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Swedish fiction'
+title: Folkungaträdet
+url: http://www.gutenberg.org/ebooks/13371
